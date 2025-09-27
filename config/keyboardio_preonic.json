@@ -65,13 +65,12 @@
         { "label":    "GUI", "row": 5, "col":  2, "x":  2, "y": 5 },
         { "label":    "LWR", "row": 5, "col":  3, "x":  3, "y": 5 },
         { "label": "LShift", "row": 5, "col":  4, "x":  4, "y": 5 },
-        { "label":    "SPC", "row": 5, "col":  5, "x":  5, "y": 5 },
+        { "label":    "SPC", "row": 5, "col":  5, "x":  5, "y": 5, "w": 2 },
         { "label":    "SPC", "row": 5, "col":  6, "x":  6, "y": 5 },
         { "label":    "ENT", "row": 5, "col":  7, "x":  7, "y": 5 },
         { "label":    "RSE", "row": 5, "col":  8, "x":  8, "y": 5 },
         { "label":    "ALT", "row": 5, "col":  9, "x":  9, "y": 5 },
-        { "label":    "ALT", "row": 5, "col":  10, "x":  10, "y": 5 },
-        { "label":    "ALT", "row": 5, "col":  11, "x":  11, "y": 5 }
+        { "label":    "ALT", "row": 5, "col":  10, "x":  10, "y": 5 }
       ]
     }
   },
