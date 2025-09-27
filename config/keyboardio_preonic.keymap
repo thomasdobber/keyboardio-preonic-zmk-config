@@ -37,8 +37,6 @@
 &kp LSHFT                 &kp Z      &kp X     &kp C     &kp V      &kp B      &kp N      &kp M      &kp COMMA  &kp PERIOD  &kp SLASH  &kp ENTER
 &kp LA(LC(LS(LEFT_GUI)))  &kp LCTRL  &kp LALT  &kp LGUI  &mo LOWER  &kp SPACE  &kp SPACE  &mo RAISE  &kp LEFT   &kp DOWN    &kp UP     &kp RIGHT
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         lower_layer {
@@ -51,8 +49,6 @@
 &trans  &trans  &trans  &trans  &trans  &trans         &trans         &kp KP_N1  &kp KP_N2      &kp KP_N3        &kp KP_PLUS   &trans
 &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &kp BACKSPACE  &kp KP_N0  &kp KP_DOT     &trans           &kp KP_ENTER  &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         raise_layer {
@@ -65,8 +61,6 @@
 &trans    &trans  &trans    &trans  &trans  &trans  &trans    &trans        &trans        &trans     &trans    &trans
 &trans    &trans  &kp RALT  &trans  &trans  &trans  &trans    &trans        &trans        &trans     &trans    &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         func_layer {
@@ -79,8 +73,6 @@
 &trans        &trans        &trans        &trans        &trans          &trans        &trans  &trans  &trans  &trans  &trans  &trans
 &bootloader   &trans        &trans        &trans        &studio_unlock  &trans        &trans  &trans  &trans  &trans  &trans  &bt BT_CLR
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
     };
 };
