@@ -117,12 +117,12 @@
         base_layer {
             label = "Base";
             bindings = <
-                                                                                                                                 &kp C_PP     &mo FN           &kp C_MUTE
-&kp GRAVE                 &kp N1        &kp N2       &kp N3       &kp N4        &kp N5     &kp N6     &kp N7        &kp N8       &kp N9       &kp N0           &kp MINUS
-&kp TAB                   &kp Q         &kp W        &kp E        &kp R         &kp T      &kp Y      &kp U         &kp I        &kp O        &kp P            &kp BACKSPACE
-&kp ESC                   &hml LCTRL A  &hml LALT S  &hml LGUI D  &hml LSHFT F  &kp G      &kp H      &hmr RSHFT J  &hmr RGUI K  &hmr LALT L  &hmr RCTRL SEMI  &kp SQT
-&kp LSHFT                 &kp Z         &kp X        &kp C        &kp V         &kp B      &kp N      &kp M         &kp COMMA    &kp PERIOD   &kp SLASH        &kp ENTER
-&kp LA(LC(LS(LEFT_GUI)))  &kp LCTRL     &kp LALT     &kp LGUI     &mo LOWER     &kp SPACE  &kp SPACE  &mo RAISE     &kp LEFT     &kp DOWN     &kp UP           &kp RIGHT
+                                                                                                                                 &kp C_MUTE   &kp C_VOLUME_DOWN  &kp C_VOLUME_UP
+&kp ESC                   &kp N1        &kp N2       &kp N3       &kp N4        &kp N5     &kp N6     &kp N7        &kp N8       &kp N9       &kp N0             &kp BSPC
+&kp TAB                   &kp Q         &kp W        &kp E        &kp R         &kp T      &kp Y      &kp U         &kp I        &kp O        &kp P              &kp LBKT
+&caps_word                &hml LCTRL A  &hml LALT S  &hml LGUI D  &hml LSHFT F  &kp G      &kp H      &hmr RSHFT J  &hmr RGUI K  &hmr LALT L  &hmr RCTRL SEMI    &kp SQT
+&kp LSHFT                 &kp Z         &kp X        &kp C        &kp V         &kp B      &kp N      &kp M         &kp COMMA    &kp PERIOD   &kp UP             &kp ENTER
+&kp LA(LC(LS(LEFT_GUI)))  &kp LCTRL     &kp LALT     &kp LGUI     &mo LOWER     &kp SPACE  &kp SPACE  &mo RAISE     &kp FSLH     &kp LEFT     &kp DOWN           &kp RIGHT
             >;
         };
 
