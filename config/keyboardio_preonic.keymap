@@ -121,7 +121,7 @@
 &kp TAB     &kp Q         &kp W        &kp F        &kp P         &kp B        &kp J        &kp L         &kp U        &kp Y        &kp SEMI      &kp DEL
 &kp ESC     &hml LCTRL A  &hml LALT R  &hml LGUI S  &hml LSHFT T  &kp G        &kp M        &hmr RSHFT N  &hmr RGUI E  &hmr LALT I  &hmr RCTRL O  &kp SQT
 &kp LSHIFT  &kp Z         &kp X        &kp C        &kp D         &kp V        &kp K        &kp H         &kp COMMA    &kp PERIOD   &kp FSLH      &kp RET
-&mo 2       &kp LCTRL     &kp LALT     &kp LGUI     &trans        &lt 1 SPACE  &lt 1 SPACE  &trans        &kp LEFT     &kp DOWN     &kp UP        &kp RIGHT
+&mo 2       &kp LCTRL     &kp LALT     &kp LGUI     &lt 1 SPACE   &lt 1 SPACE  &lt 1 SPACE  &lt 1 SPACE   &kp LEFT     &kp DOWN     &kp UP        &kp RIGHT
             >;
         };
 
