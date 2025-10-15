@@ -132,7 +132,7 @@
 &trans  &trans  &kp N1        &kp N2        &kp N3         &trans  &trans     &kp MINUS         &kp UP          &kp EQUAL        &trans           &trans
 &trans  &trans  &hml LALT N4  &hml LGUI N5  &hml LSHFT N6  &trans  &kp GRAVE  &hmr RSHFT LEFT   &hmr RGUI DOWN  &hmr LALT RIGHT  &hmr RCTRL BSLH  &trans
 &trans  &trans  &kp N7        &kp N8        &kp N9         &trans  &trans     &kp SINGLE_QUOTE  &kp LBKT        &kp RBKT         &trans           &trans
-&trans  &trans  &trans        &trans        &trans         &kp N0  &trans     &trans            &trans          &trans           &trans           &trans
+&trans  &trans  &trans        &trans        &kp N0         &kp N0  &trans     &trans            &trans          &trans           &trans           &trans
             >;
         };
 
